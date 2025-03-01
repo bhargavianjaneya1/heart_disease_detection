@@ -1,4 +1,4 @@
-# ❤ Heart Disease Detection Using ANN  
+# Heart Disease Detection Using ANN  
 
 ##  Project Overview  
 This project predicts the presence of **heart disease** in patients using an **Artificial Neural Network (ANN)**. The dataset contains medical attributes that help classify whether a person has heart disease (**target = 1**) or not (**target = 0**).  
